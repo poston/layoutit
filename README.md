@@ -11,4 +11,4 @@ LayoutIt!
 - 重做跟踪操作功能
 - 加入 ckeditor 弹出编辑器
 
-原版程序地址: <a href="http://www.layoutit.com/" target="_blank">www.layoutit.com/</a>
+原版程序地址: <a href="http://www.layoutit.com/" target="_blank">layoutit.com</a>
